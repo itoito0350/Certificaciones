@@ -9,8 +9,8 @@
 ![Certificación 1](./python01.png)
 ![Certificación 2](./python02.png)
 
-# IA
+# Inteligencia Artificial y Big Data
 ![Certificación 1](./ia01.png)
 ![Certificación 2](./ia02.png)
 ![Certificación 3](./ia03.png)
-![Certificación 4](./Milagros Angulo - Intermediate Machine Learning.png)
+![Certificación 4](./ia05.png)
