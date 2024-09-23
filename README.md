@@ -13,4 +13,4 @@
 ![Certificación 1](./ia01.png)
 ![Certificación 2](./ia02.png)
 ![Certificación 3](./ia03.png)
-![Certificación 4](./Milagros_Angulo-Intermediate_Machine_Learning.png)
+![Certificación 4](./Milagros Angulo - Intermediate Machine Learning.png)
