@@ -1,16 +1,17 @@
 # Mis Certificaciones Profesionales
 ## Diseño UX
-![Certificación 1](./ux01.png)
-![Certificación 2](./ux02.png)
-![Certificación 3](./ux03.png)
-![Certificación 4](./us04.png)
+<img src="./uxn01.png" alt="Certificación 1" width="400"/>
+<img src="./ux01.png" alt="Certificación 2" width="400"/>
+<img src="./ux03.png" alt="Certificación 3" width="400"/>
+<img src="./ux04.png" alt="Certificación 4" width="400"/>
 
 ## Python
-![Certificación 1](./python01.png)
-![Certificación 2](./python02.png)
+<img src="./python01.png" alt="Certificación 5" width="400"/>
+<img src="./python02.png" alt="Certificación 6" width="400"/>
 
 # Inteligencia Artificial y Big Data
-![Certificación 1](./ia01.png)
-![Certificación 2](./ia02.png)
-![Certificación 3](./ia03.png)
-![Certificación 4](./ia05.png)
+<img src="./ia01.png" alt="Certificación 7" width="400"/>
+<img src="./ia02.png" alt="Certificación 8" width="400"/>
+<img src="./ia03.png" alt="Certificación 9" width="400"/>
+<img src="./ia04.png" alt="Certificación 10" width="400"/>
+
