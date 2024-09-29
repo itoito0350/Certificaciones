@@ -1,6 +1,6 @@
 # Mis Certificaciones Profesionales
 ## Diseño UX
-<img src="./uxn01.png" alt="Certificación 1" width="400"/>
+<img src="./ux01.png" alt="Certificación 1" width="400"/>
 <img src="./ux01.png" alt="Certificación 2" width="400"/>
 <img src="./ux03.png" alt="Certificación 3" width="400"/>
 <img src="./ux04.png" alt="Certificación 4" width="400"/>
